@@ -1,0 +1,164 @@
+
+
+body{
+    background-image: url("C:\Users\Admin\Desktop\tourism\images\natu.jpg");
+}
+
+
+.nav-as
+{
+    background-color:#94AF9F;
+}
+
+
+.h1
+{
+    margin-top: 12px;
+    font-family: cursive;
+    text-align: center;
+        
+}
+
+.side
+{
+    text-align: left;
+    position: relative;
+    left: 370%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* font-size: 10px; */
+}
+
+.title-h
+{
+    font-family: cursive;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+
+.middle
+{
+    background-color: aqua;
+    height: 80vh;
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.BPlCJGgmwqYxed3zdpcGegHaEK&pid=Api&P=0");
+
+    /* background-image: url("https://tse3.mm.bing.net/th?id=OIP.c4MCiDFgSGLsR_7-4-j0PwHaEK&pid=Api&P=0"); */
+}
+
+
+.middle h1{
+    text-align: center;
+    color: azure;
+    font-size: 35px;
+    margin-top: 12px;
+    padding-top: 20px;
+    font-family: serif;
+    font-style: italic;
+}
+
+
+.text-middle
+{
+    color: antiquewhite;
+    float: left;
+    width: 60%;
+    padding-top:10%;
+    padding-left: 18%;
+     
+
+}
+
+.taj
+{
+    margin-top: 60px;
+    border-radius: 45px;
+    width: 25%;
+    margin-left: 12px;
+    padding-top: 12px;
+    /* margin-left: 34px; */
+}
+
+
+/* feature */
+
+.chal
+{
+    background-color: #BBD6B8;
+}
+
+/* .chal h1{
+    margin-top: 6px;
+} */
+
+
+
+.feat
+{
+    /* margin-top: 20px; */
+    text-align: center;
+    font-family: serif;
+    font-style: italic;
+    font-size: 50px;
+    /* background-color: blue; */
+    /* height: 65vh; */
+}
+
+.explore 
+{
+    margin-top: 20px;
+
+}
+
+.explore img{
+    border-radius: 23px;
+    border-color: 4px solid black;
+}
+
+
+
+
+
+
+.price
+{
+    height: 50vh;
+    /* background-color: aqua; */
+    background-color: #CCD5AE;
+}
+
+.price-box
+{
+    text-align: center;
+    font-family: serif;
+    font-size: 25px;
+    margin-top: 34px;
+}
+
+
+
+/* Contact use */
+
+
+.contact
+{
+    height: 20vh;
+        text-align: center;
+   
+     background-color:#BBD6B8;
+     font-style: italic;
+     margin-left: 5px;
+     padding-left: 7px;
+     
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
